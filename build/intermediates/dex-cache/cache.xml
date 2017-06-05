@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\WeKanCode\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\WeKanCode\Downloads\SimpleInfiniteCarousel-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_30dd3989f5d3e0b049bb3fdd7cf4d0b7dc53cd13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WeKanCode\Downloads\SimpleInfiniteCarousel-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\WeKanCode\Downloads\SimpleInfiniteCarousel-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f48d8e5ece1da9e3b98389f9e930cd671d6a7ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WeKanCode\Downloads\SimpleInfiniteCarousel-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5566216be60c0ec790b81dd3450c6d449026376">
+        <dex dex="C:\Users\WeKanCode\Downloads\SimpleInfiniteCarousel-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ab6a60f7fe59e80120db24b1c217bfd2530fb58e\classes.dex" />
+    </item>
+
+</items>

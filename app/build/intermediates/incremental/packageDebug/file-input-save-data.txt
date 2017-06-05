@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Jun 01 19:25:13 IST 2017
+2.base=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f48d8e5ece1da9e3b98389f9e930cd671d6a7ad0\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f48d8e5ece1da9e3b98389f9e930cd671d6a7ad0
+1.file=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab6a60f7fe59e80120db24b1c217bfd2530fb58e\\classes.dex
+1.set=DEX
+7.base=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\mf.xml
+6.set=DEX
+0.base=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab6a60f7fe59e80120db24b1c217bfd2530fb58e
+4.file=C\:\\Users\\WeKanCode\\Downloads\\SimpleInfiniteCarousel-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+0.set=ANDROID_RESOURCE
